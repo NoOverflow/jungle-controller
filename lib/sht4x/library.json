@@ -1,0 +1,17 @@
+{
+    "name": "sht4x",
+    "version": "10.2.1",
+    "keywords": "rtos, timing, thread, task, mutex, semaphore",
+    "description": "Real Time Operating System",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/noidea/noidea.git"
+    },
+    "frameworks": "espidf",
+    "platforms": "espressif32",
+    "build": {
+        "libArchive": false,
+        "srcDir": "src",
+        "srcFilter": "+<*>"
+    }
+}

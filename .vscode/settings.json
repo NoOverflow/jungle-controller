@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "radiolib.h": "c",
+        "sensirion_arch_config.h": "c",
+        "freertos.h": "c",
+        "sensirion_sw_i2c_gpio.h": "c",
+        "gpio.h": "c",
+        "i2c_master.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
